@@ -1,1 +1,3 @@
 # stupendous
+
+public domain
